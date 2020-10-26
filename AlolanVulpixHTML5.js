@@ -1281,9 +1281,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"/tree/main/images/_40fps_alolan_vulpix_layers_pub_0.png", id:"_40fps_alolan_vulpix_layers_pub_0"},
-		{src:"/tree/main/images/_40fps_alolan_vulpix_layers_pub_1.png", id:"_40fps_alolan_vulpix_layers_pub_1"},
-		{src:"/tree/main/images/_40fps_alolan_vulpix_layers_pub_10.png", id:"_40fps_alolan_vulpix_layers_pub_10"},
+		{src:"tree/main/images/_40fps_alolan_vulpix_layers_pub_0.png", id:"_40fps_alolan_vulpix_layers_pub_0"},
+		{src:"tree/main/images/_40fps_alolan_vulpix_layers_pub_1.png", id:"_40fps_alolan_vulpix_layers_pub_1"},
+		{src:"tree/main/images/_40fps_alolan_vulpix_layers_pub_10.png", id:"_40fps_alolan_vulpix_layers_pub_10"},
 		{src:"/tree/main/images/_40fps_alolan_vulpix_layers_pub_11.png", id:"_40fps_alolan_vulpix_layers_pub_11"},
 		{src:"/tree/main/images/_40fps_alolan_vulpix_layers_pub_12.png", id:"_40fps_alolan_vulpix_layers_pub_12"},
 		{src:"/tree/main/images/_40fps_alolan_vulpix_layers_pub_13.png", id:"_40fps_alolan_vulpix_layers_pub_13"},
