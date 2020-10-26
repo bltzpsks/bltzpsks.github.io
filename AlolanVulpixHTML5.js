@@ -1295,7 +1295,7 @@ lib.properties = {
 		{src:"/tree/main/images/_40fps_alolan_vulpix_layers_pub_19.png", id:"_40fps_alolan_vulpix_layers_pub_19"},
 		{src:"/tree/main/images/_40fps_alolan_vulpix_layers_pub_2.png", id:"_40fps_alolan_vulpix_layers_pub_2"},
 		{src:"/tree/main/images/_40fps_alolan_vulpix_layers_pub_20.png", id:"_40fps_alolan_vulpix_layers_pub_20"},
-		{src:"images/_40fps_alolan_vulpix_layers_pub_21.png", id:"_40fps_alolan_vulpix_layers_pub_21"},
+		{src:"/images/_40fps_alolan_vulpix_layers_pub_21.png", id:"_40fps_alolan_vulpix_layers_pub_21"},
 		{src:"images/_40fps_alolan_vulpix_layers_pub_22.png", id:"_40fps_alolan_vulpix_layers_pub_22"},
 		{src:"images/_40fps_alolan_vulpix_layers_pub_23.png", id:"_40fps_alolan_vulpix_layers_pub_23"},
 		{src:"images/_40fps_alolan_vulpix_layers_pub_24.png", id:"_40fps_alolan_vulpix_layers_pub_24"},
