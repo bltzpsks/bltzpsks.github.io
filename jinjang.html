@@ -30,7 +30,7 @@ function init() {
 	loader.loadManifest(lib.properties.manifest);
 }
 function handleFileLoad(evt, comp) {
-	var images2=comp.getImages2();	
+	var images2=comp.getImages();	
 	if (evt && (evt.item.type == "image")) { images2[evt.item.id] = evt.result; }	
 }
 function handleComplete(evt,comp) {
