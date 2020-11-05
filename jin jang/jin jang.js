@@ -3067,22 +3067,22 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/jin jang_atlas_.png", id:"jin jang_atlas_"},
-		{src:"images/jin jang_atlas_2.png", id:"jin jang_atlas_2"},
-		{src:"images/jin jang_atlas_3.png", id:"jin jang_atlas_3"},
-		{src:"images/jin jang_atlas_4.png", id:"jin jang_atlas_4"},
-		{src:"images/jin jang_atlas_5.png", id:"jin jang_atlas_5"},
-		{src:"images/jin jang_atlas_6.png", id:"jin jang_atlas_6"},
-		{src:"images/jin jang_atlas_7.png", id:"jin jang_atlas_7"},
-		{src:"images/jin jang_atlas_8.png", id:"jin jang_atlas_8"},
-		{src:"images/jin jang_atlas_9.png", id:"jin jang_atlas_9"},
-		{src:"images/jin jang_atlas_10.png", id:"jin jang_atlas_10"},
-		{src:"images/jin jang_atlas_11.png", id:"jin jang_atlas_11"}
+		{src:"https://raw.githubusercontent.com/bltzpsks/bltzpsks.github.io/main/images2/jin%20jang_atlas_.png", id:"jin jang_atlas_"},
+		{src:"https://raw.githubusercontent.com/bltzpsks/bltzpsks.github.io/main/images2/jin%20jang_atlas_2.png", id:"jin jang_atlas_2"},
+		{src:"https://raw.githubusercontent.com/bltzpsks/bltzpsks.github.io/main/images2/jin%20jang_atlas_3.png", id:"jin jang_atlas_3"},
+		{src:"https://raw.githubusercontent.com/bltzpsks/bltzpsks.github.io/main/images2/jin%20jang_atlas_4.png", id:"jin jang_atlas_4"},
+		{src:"https://raw.githubusercontent.com/bltzpsks/bltzpsks.github.io/main/images2/jin%20jang_atlas_5.png", id:"jin jang_atlas_5"},
+		{src:"https://raw.githubusercontent.com/bltzpsks/bltzpsks.github.io/main/images2/jin%20jang_atlas_6.png", id:"jin jang_atlas_6"},
+		{src:"https://raw.githubusercontent.com/bltzpsks/bltzpsks.github.io/main/images2/jin%20jang_atlas_7.png", id:"jin jang_atlas_7"},
+		{src:"https://raw.githubusercontent.com/bltzpsks/bltzpsks.github.io/main/images2/jin%20jang_atlas_8.png", id:"jin jang_atlas_8"},
+		{src:"https://raw.githubusercontent.com/bltzpsks/bltzpsks.github.io/main/images2/jin%20jang_atlas_9.png", id:"jin jang_atlas_9"},
+		{src:"https://raw.githubusercontent.com/bltzpsks/bltzpsks.github.io/main/images2/jin%20jang_atlas_10.png", id:"jin jang_atlas_10"},
+		{src:"https://raw.githubusercontent.com/bltzpsks/bltzpsks.github.io/main/images2/jin%20jang_atlas_11.png", id:"jin jang_atlas_11"}
 	],
 	preloads: []
 };
 
-
+                
 
 // bootstrap callback support:
 
