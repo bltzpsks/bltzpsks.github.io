@@ -30,8 +30,8 @@ function init() {
 	loader.loadManifest(lib.properties.manifest);
 }
 function handleFileLoad(evt, comp) {
-	var images=comp.getImages();	
-	if (evt && (evt.item.type == "image")) { images[evt.item.id] = evt.result; }	
+	var images2=comp.getImages2();	
+	if (evt && (evt.item.type == "image")) { images2[evt.item.id] = evt.result; }	
 }
 function handleComplete(evt,comp) {
 	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
@@ -40,7 +40,7 @@ function handleComplete(evt,comp) {
 	var queue = evt.target;
 	var ssMetadata = lib.ssMetadata;
 	for(i=0; i<ssMetadata.length; i++) {
-		ss[ssMetadata[i].name] = new createjs.SpriteSheet( {"images": [queue.getResult(ssMetadata[i].name)], "frames": ssMetadata[i].frames} )
+		ss[ssMetadata[i].name] = new createjs.SpriteSheet( {"images2": [queue.getResult(ssMetadata[i].name)], "frames": ssMetadata[i].frames} )
 	}
 	exportRoot = new lib.YinYang14_HTML5Canvas();
 	stage = new lib.Stage(canvas);
